@@ -1,13 +1,13 @@
-# BuildItBigger -
+# BuildItBigger
 
-*An android app showcasing Gradle for Android and Java Projects
+* An android app showcasing Gradle for Android and Java Projects
 
-# Starting Point -
+# Starting Point
 
-*The starting point for this project is provided in the repository: https://github.com/udacity/ud867/tree/master/FinalProject.
+* The starting point for this project is provided in the repository: https://github.com/udacity/ud867/tree/master/FinalProject.
 
 
-# Components -
+# Components
 
 * Project contains a Java library for supplying jokes
 * Project contains an Android library with an activity that displays jokes passed to it as intent extras.
@@ -16,12 +16,12 @@
 * Project contains paid/free flavors. The paid flavor has no ads, and no unnecessary dependencies.
 
 
-# Behavior -
+# Behavior
 
 * App retrieves jokes from Google Cloud Endpoints module and displays them via an Activity from the Android Library.
 
 
-# Optional Components -
+# Optional Components
 
 * Make the free app variant display interstitial ads between the main activity and the joke-displaying activity.
 * Have the app display a loading indicator while the joke is being fetched from the server.
