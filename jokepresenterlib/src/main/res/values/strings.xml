@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JokePresenterLib</string>
+    <string name="text_no_joke">Derp!!! This should not happen. What a JOKE :-)</string>
+</resources>
